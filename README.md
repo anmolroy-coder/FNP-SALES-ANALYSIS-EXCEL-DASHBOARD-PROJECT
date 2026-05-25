@@ -102,7 +102,7 @@ This project helped me improve my skills in:
 ##  Author
 **Anmol Ray**
 
-### 🔗 Connect With Me
+###  Connect With Me
 - LinkedIn:www.linkedin.com/in/anmol-ray-7176a0397
 
 ---
