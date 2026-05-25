@@ -106,5 +106,3 @@ This project helped me improve my skills in:
 - LinkedIn:www.linkedin.com/in/anmol-ray-7176a0397
 
 ---
-
-#Excel #Dashboard #DataAnalytics #PowerQuery #PowerPivot #DAX #BusinessAnalytics #ExcelDashboard
