@@ -1,13 +1,13 @@
-#  FNP Sales Analysis Dashboard | Excel Project
+# FNP Sales Analysis Dashboard | Excel Project
 
-##  Project Overview
+## Project Overview
 This project is an interactive Excel Dashboard created using the Ferns N Petals (FNP) sales dataset. The dashboard helps analyze sales performance, customer behavior, delivery insights, category performance, and city-wise order distribution.
 
 Using Power Query, Power Pivot, DAX, Pivot Tables, and Pivot Charts, the raw data was transformed into meaningful business insights through an interactive dashboard.
 
 ---
 
-##  Tools & Technologies Used
+## Tools & Technologies Used
 - Microsoft Excel
 - Power Query
 - Power Pivot
@@ -19,7 +19,7 @@ Using Power Query, Power Pivot, DAX, Pivot Tables, and Pivot Charts, the raw dat
 
 ---
 
-##  Data Cleaning & Transformation
+## Data Cleaning & Transformation
 Performed multiple data transformation tasks using Power Query:
 - Imported data from folder
 - Cleaned and transformed datasets
@@ -31,15 +31,15 @@ Performed multiple data transformation tasks using Power Query:
 
 ---
 
-##  Data Modeling
+## Data Modeling
 Created a proper data model using:
 - Star Schema
-- Fact Table & Dimension Tables
-- Relationships in Orders, Customers, and Products tables
+- Orders Table (Fact Table) and Customers & Products Tables (Dimension Tables)
+- Created relationships between Orders, Customers, and Products tables
 
 ---
 
-##  DAX Calculations
+## DAX Calculations
 
 ### Revenue Formula
 ```DAX
@@ -53,7 +53,7 @@ Day Name = FORMAT(Orders[Order_Date], "DDDD")
 
 ---
 
-##  Dashboard Insights
+## Dashboard Insights
 The dashboard provides insights on:
 - Revenue by Occasion
 - Revenue by Category
@@ -68,7 +68,7 @@ The dashboard provides insights on:
 
 ---
 
-##  Key Insights
+## Key Insights
 - Colors category generated the highest revenue among all categories.
 - Maximum orders were received during evening hours.
 - Anniversary and Raksha Bandhan occasions contributed significantly to revenue.
@@ -78,7 +78,7 @@ The dashboard provides insights on:
 
 ---
 
-##  Dashboard Features
+## Dashboard Features
 - Interactive Slicers & Filters  
 - Dynamic Charts  
 - KPI Cards  
@@ -87,7 +87,7 @@ The dashboard provides insights on:
 
 ---
 
-##  Learning Outcomes
+## Learning Outcomes
 This project helped me improve my skills in:
 - Excel Dashboarding
 - Data Cleaning
@@ -99,10 +99,10 @@ This project helped me improve my skills in:
 
 ---
 
-##  Author
+## Author
 **Anmol Ray**
 
-###  Connect With Me
+### Connect With Me
 - LinkedIn:www.linkedin.com/in/anmol-ray-7176a0397
 
 ---
